@@ -1,0 +1,1 @@
+SELECT COUNT(*) FROM LaPlateforme.etudiants WHERE age < 18;
